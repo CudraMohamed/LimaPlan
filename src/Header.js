@@ -13,11 +13,11 @@ const Header = () => {
           </div>
           <nav>
             <ul className="flex space-x-4">
-              <li><a href="#" className="text-white hover:text-yellow-300">Home</a></li>
+              <li><a href="#" className="text-white hover:text-yellow-300 mb-7">Home</a></li>
               <li><a href="#" className="text-white hover:text-yellow-300">Products</a></li>
               <li><a href="#" className="text-white hover:text-yellow-300">Services</a></li>
               <li><a href="#" className="text-white hover:text-yellow-300">About Us</a></li>
-              <li><a href="#" className="text-white hover:text-yellow-300">Contact</a></li>
+              <li><a href="#" className="text-yellow-300 hover:text-grey-300 underline">Sign In</a></li>
             </ul>
           </nav>
           

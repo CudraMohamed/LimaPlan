@@ -3,6 +3,7 @@ import { ReactComponent as Logo } from './logo.svg';
 import './App.css';
 import React from 'react';
 import Header from './Header';
+// import FarmingHome from './FarmingHome';
 import FarmingProducts from './FarmingProducts';
 import NewsletterSubscription from './NewsletterSubscription';
 import Footer from './Footer';
@@ -31,6 +32,7 @@ function App() {
     // </div>
     <div>
     <Header />
+    {/* <FarmingHome/> */}
     <FarmingProducts/>
     <NewsletterSubscription />
     <Footer />

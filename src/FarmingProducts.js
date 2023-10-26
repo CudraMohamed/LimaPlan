@@ -19,6 +19,22 @@ const products = [
     name: 'Weather Forecasting',
     description: 'Accurate forecasts for smart farming.',
   },
+  {
+    id: 1,
+    name: 'Certified Seeds',
+    description: 'High genetic purity, High germinability, and Higher field establishment.',
+  },
+  {
+    id: 2,
+    name: 'Fertilizers',
+    imageUrl:'src/assets/weather.jpg',
+    description: 'Fertilisers containing essential nutrients required by the plants, including nitrogen, potassium, and phosphorus.',
+  },
+  {
+    id: 3,
+    name: 'Weather Forecasting',
+    description: 'Accurate forecasts for smart farming.',
+  },
 ];
 
 const FarmingProducts = () => {
